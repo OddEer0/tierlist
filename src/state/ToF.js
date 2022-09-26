@@ -1,25 +1,102 @@
 const ToFCharacters = {
 	id: 0,
 	items: [
-		{ id: 1, name: 'Annabella', source: 'ToF/annabella.webp' },
-		{ id: 2, name: 'Tian Lang', source: 'ToF/tianlang.webp' },
-		{ id: 3, name: 'Lyra', source: 'ToF/lyra.webp' },
-		{ id: 4, name: 'Lin', source: 'ToF/lin.webp' },
-		{ id: 5, name: 'Saki Fuwa', source: 'ToF/sakifuwa.webp' },
-		{ id: 6, name: 'Ruby', source: 'ToF/ruby.webp' },
-		{ id: 7, name: 'Frigg', source: 'ToF/frigg.webp' },
-		{ id: 8, name: 'Nemesis', source: 'ToF/nemesis.webp' },
-		{ id: 9, name: 'Cobalt-B', source: 'ToF/cobalt-b.webp' },
-		{ id: 10, name: 'Claudia', source: 'ToF/claudia.webp' },
-		{ id: 11, name: 'Cocoritter', source: 'ToF/cocoritter.webp' },
-		{ id: 12, name: 'Huma', source: 'ToF/huma.webp' },
-		{ id: 13, name: 'Crow', source: 'ToF/crow.webp' },
-		{ id: 14, name: 'KING', source: 'ToF/king.webp' },
-		{ id: 15, name: 'Meryl', source: 'ToF/meryl.webp' },
-		{ id: 16, name: 'Samir', source: 'ToF/samir.webp' },
-		{ id: 17, name: 'Shiro', source: 'ToF/shiro.webp' },
-		{ id: 18, name: 'Tsubasa', source: 'ToF/tsubasa.webp' },
-		{ id: 19, name: 'Zero', source: 'ToF/zero.webp' },
+		{
+			id: 1,
+			name: 'Annabella',
+			source: 'https://toweroffantasy.info/static/images/avatar/annabella.webp',
+		},
+		{
+			id: 2,
+			name: 'Tian Lang',
+			source: 'https://toweroffantasy.info/static/images/avatar/tianlang.webp',
+		},
+		{
+			id: 3,
+			name: 'Lyra',
+			source: 'https://toweroffantasy.info/static/images/avatar/lyra.webp',
+		},
+		{
+			id: 4,
+			name: 'Lin',
+			source: 'https://toweroffantasy.info/static/images/avatar/lin.webp',
+		},
+		{
+			id: 5,
+			name: 'Saki Fuwa',
+			source: 'https://toweroffantasy.info/static/images/avatar/sakifuwa.webp',
+		},
+		{
+			id: 6,
+			name: 'Ruby',
+			source: 'https://toweroffantasy.info/static/images/avatar/ruby.webp',
+		},
+		{
+			id: 7,
+			name: 'Frigg',
+			source: 'https://toweroffantasy.info/static/images/avatar/frigg.webp',
+		},
+		{
+			id: 8,
+			name: 'Nemesis',
+			source: 'https://toweroffantasy.info/static/images/avatar/nemesis.webp',
+		},
+		{
+			id: 9,
+			name: 'Cobalt-B',
+			source: 'https://toweroffantasy.info/static/images/avatar/cobalt-b.webp',
+		},
+		{
+			id: 10,
+			name: 'Claudia',
+			source: 'https://toweroffantasy.info/static/images/avatar/claudia.webp',
+		},
+		{
+			id: 11,
+			name: 'Cocoritter',
+			source:
+				'https://toweroffantasy.info/static/images/avatar/cocoritter.webp',
+		},
+		{
+			id: 12,
+			name: 'Huma',
+			source: 'https://toweroffantasy.info/static/images/avatar/huma.webp',
+		},
+		{
+			id: 13,
+			name: 'Crow',
+			source: 'https://toweroffantasy.info/static/images/avatar/crow.webp',
+		},
+		{
+			id: 14,
+			name: 'KING',
+			source: 'https://toweroffantasy.info/static/images/avatar/king.webp',
+		},
+		{
+			id: 15,
+			name: 'Meryl',
+			source: 'https://toweroffantasy.info/static/images/avatar/meryl.webp',
+		},
+		{
+			id: 16,
+			name: 'Samir',
+			source: 'https://toweroffantasy.info/static/images/avatar/samir.webp',
+		},
+		{
+			id: 17,
+			name: 'Shiro',
+			source: 'https://toweroffantasy.info/static/images/avatar/shiro.webp',
+		},
+		{
+			id: 18,
+			name: 'Tsubasa',
+			source: 'https://toweroffantasy.info/static/images/avatar/tsubasa.webp',
+		},
+		{
+			id: 19,
+			name: 'Zero',
+			source: 'https://toweroffantasy.info/static/images/avatar/zero.webp',
+		},
 	],
 }
 
