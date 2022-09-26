@@ -65,7 +65,7 @@ const TierListBoard = ({ board, handler, ...props }) => {
 					<img
 						onClick={() => setShowModal(true)}
 						className='tierlist__setting-icon'
-						src='https://w7.pngwing.com/pngs/846/518/png-transparent-gear-computer-icons-green-gear-miscellaneous-flower-gear-train-thumbnail.png'
+						src='https://cdn-icons-png.flaticon.com/512/545/545754.png'
 						alt=''
 					/>
 				</div>
