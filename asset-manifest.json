@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tierlist/static/css/main.beb88ddf.css",
+    "main.js": "/tierlist/static/js/main.09ff281b.js",
+    "index.html": "/tierlist/index.html",
+    "main.beb88ddf.css.map": "/tierlist/static/css/main.beb88ddf.css.map",
+    "main.09ff281b.js.map": "/tierlist/static/js/main.09ff281b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb88ddf.css",
+    "static/js/main.09ff281b.js"
+  ]
+}
